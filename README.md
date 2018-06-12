@@ -1,1 +1,3 @@
-# refaktorisanje
+# Refaktorisanje
+
+Vodič za refaktorisanje Javaskripta
